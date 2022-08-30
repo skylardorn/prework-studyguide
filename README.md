@@ -2,10 +2,7 @@
 
 ## Description
 
- "The Prework study guide was made for students going through bootcamp to help them find answers and solve problems quicker."
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+The Prework study guide was made for students going through bootcamp to help them find answers and solve problems quicker.
 
 ## Installation
 
